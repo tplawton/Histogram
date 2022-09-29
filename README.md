@@ -1,1 +1,3 @@
 # Histogram
+
+#Simple Histogram program
